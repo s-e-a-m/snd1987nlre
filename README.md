@@ -1,2 +1,5 @@
-# snd1987nlre
-Luigi Nono, Risonanze Erranti, Sound Files
+# SEAMPLE PLAYER
+
+```
+faust2caqt -soundfile sampleplayer.dsp
+```
